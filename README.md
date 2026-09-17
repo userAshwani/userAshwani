@@ -40,39 +40,21 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 I build practical full-stack software for real business workflows: custom CRM platforms, admin dashboards, reporting systems, web applications, mobile products, APIs, and automation-ready backends.
 
-My work turns scattered operations into organized digital systems with clean forms, structured records, secure access, useful filters, smooth user journeys, and dashboards that make everyday decisions easier.
-
-</td>
-<td width="50%" valign="top">
-
-I care about products that are simple to use and easy to maintain. That means clear interfaces, predictable backend logic, thoughtful database structure, reusable components, and deployment flows that stay dependable.
-
-I also use AI-assisted engineering to plan features, debug faster, refactor cleaner, document better, and move from idea to working product with more confidence.
-
-</td>
-</tr>
-</table>
+- 🧩 I turn scattered operations into organized digital systems with clean forms, structured records, and secure access
+- 🎯 I focus on software that is simple to use and easy to maintain: clear interfaces, predictable backend logic, and thoughtful database structure
+- 🤖 I use AI-assisted engineering to plan features, debug faster, refactor cleaner, and move from idea to working product with confidence
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3300&pause=850&color=9ECE6A&center=true&vCenter=true&width=820&height=28&lines=CRMs+%7C+Dashboards+%7C+APIs+%7C+Mobile+Apps+%7C+Automation;Clean+interfaces+%7C+Secure+workflows+%7C+Scalable+backend+logic" alt="Typing animation: work focus" />
 </p>
 
-## Work Focus
+## What I Build
 
-<table>
-<tr>
-<td align="center" width="25%"><strong>CRM Platforms</strong><br/>Leads, clients, roles, permissions, pipelines, reports</td>
-<td align="center" width="25%"><strong>Dashboards</strong><br/>Admin panels, analytics, filters, exports, activity views</td>
-<td align="center" width="25%"><strong>Web & Mobile</strong><br/>Responsive web apps, React Native screens, API journeys</td>
-<td align="center" width="25%"><strong>Automation</strong><br/>AI-supported workflows, repeatable actions, smart tooling</td>
-</tr>
-</table>
+| 💼 CRM Platforms | 📊 Dashboards | 📱 Web & Mobile | ⚙️ Automation |
+| :---: | :---: | :---: | :---: |
+| Leads, clients, roles, pipelines, and reports | Admin panels, analytics, filters, and exports | Responsive web apps and React Native products | AI-supported workflows and smart tooling |
 
 ---
 
