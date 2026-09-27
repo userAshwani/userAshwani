@@ -7,7 +7,7 @@
 </td>
 <td>
 
-<h2>Hi, I'm Ashwani Tiwari</h2>
+<h2>Hello, I'm Ashwani Tiwari</h2>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=650&color=7AA2F7&vCenter=true&width=760&height=36&lines=Full-Stack+Software+Engineer;CRM+%26+Business+Workflow+Builder;Web+%26+Mobile+Application+Developer;AI-Assisted+Product+Engineering" alt="Typing animation: Ashwani Tiwari profile headline" />
 
