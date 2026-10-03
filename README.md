@@ -36,30 +36,21 @@
   <img src="https://img.shields.io/badge/AI%20Workflows-111827?style=for-the-badge&logo=openai&logoColor=BB9AF7" alt="AI Workflows" />
 </p>
 
----
-
-## About Me
-
+About Me
 I build practical full-stack software for real business workflows: custom CRM platforms, admin dashboards, reporting systems, web applications, mobile products, APIs, and automation-ready backends.
-
 - 🧩 I turn scattered operations into organized digital systems with clean forms, structured records, and secure access
 - 🎯 I focus on software that is simple to use and easy to maintain: clear interfaces, predictable backend logic, and thoughtful database structure
 - 🤖 I use AI-assisted engineering to plan features, debug faster, refactor cleaner, and move from idea to working product with confidence
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3300&pause=850&color=9ECE6A&center=true&vCenter=true&width=820&height=28&lines=CRMs+%7C+Dashboards+%7C+APIs+%7C+Mobile+Apps+%7C+Automation;Clean+interfaces+%7C+Secure+workflows+%7C+Scalable+backend+logic" alt="Typing animation: work focus" />
 </p>
 
-## What I Build
+What I Build
+💼 CRM Platforms	📊 Dashboards	📱 Web & Mobile	⚙️ Automation
+Leads, clients, roles, pipelines, and reports	Admin panels, analytics, filters, and exports	Responsive web apps and React Native products	AI-supported workflows and smart tooling
 
-| 💼 CRM Platforms | 📊 Dashboards | 📱 Web & Mobile | ⚙️ Automation |
-| :---: | :---: | :---: | :---: |
-| Leads, clients, roles, pipelines, and reports | Admin panels, analytics, filters, and exports | Responsive web apps and React Native products | AI-supported workflows and smart tooling |
 
----
-
-## Tech Stack
-
+Tech Stack
 <table>
 <tr>
 <td width="24%" valign="top">
@@ -153,10 +144,7 @@ Planning, coding, debugging, refactoring, documentation
 </tr>
 </table>
 
----
-
-## GitHub Activity
-
+GitHub Activity
 <div align="center">
 
 <p>
@@ -204,7 +192,7 @@ Planning, coding, debugging, refactoring, documentation
   <img src="https://img.shields.io/badge/Streak%20%26%20Consistency-111827?style=for-the-badge&logo=githubactions&logoColor=BB9AF7" alt="Streak and consistency" />
 </p>
 
-<img width="92%" src="https://streak-stats.demolab.com?user=userAshwani&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=9ECE6A&timezone=Asia%2FKolkata&cache=20261003" alt="Ashwani Tiwari GitHub streak" />
+<img width="92%" src="https://streak-stats.demolab.com?user=userAshwani&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=9ECE6A" alt="Ashwani Tiwari GitHub streak" />
 
 <p>
   <img src="https://img.shields.io/badge/Contribution%20Timeline-111827?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Contribution Timeline" />
@@ -216,10 +204,7 @@ Planning, coding, debugging, refactoring, documentation
 
 </div>
 
----
-
-## Build Style
-
+Build Style
 <table>
 <tr>
 <td width="33%" valign="top"><strong>Product-Minded</strong><br/>Features shaped around real workflows, clear user journeys, and practical business value.</td>
