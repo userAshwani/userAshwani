@@ -204,7 +204,7 @@ Planning, coding, debugging, refactoring, documentation
   <img src="https://img.shields.io/badge/Streak%20%26%20Consistency-111827?style=for-the-badge&logo=githubactions&logoColor=BB9AF7" alt="Streak and consistency" />
 </p>
 
-<img width="92%" src="https://streak-stats.demolab.com?user=userAshwani&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=9ECE6A" alt="Ashwani Tiwari GitHub streak" />
+<img width="92%" src="https://streak-stats.demolab.com?user=userAshwani&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=9ECE6A&timezone=Asia%2FKolkata&cache=20261003" alt="Ashwani Tiwari GitHub streak" />
 
 <p>
   <img src="https://img.shields.io/badge/Contribution%20Timeline-111827?style=for-the-badge&logo=github&logoColor=7AA2F7" alt="Contribution Timeline" />
