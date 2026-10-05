@@ -102,7 +102,7 @@ GitHub Activity
 <a href="https://github.com/userAshwani">
   <img
     width="92%"
-    src="https://streak-stats.demolab.com/?user=userAshwani&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=9ECE6A&timezone=Asia%2FKolkata&type=svg&cache=20261005"
+    src="https://streak-stats.demolab.com/?user=userAshwani&theme=tokyonight&hide_border=true&background=0D1117&ring=7AA2F7&fire=FF9E64&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=9ECE6A&timezone=Asia%2FKolkata&type=svg&v=20261005-1215"
     alt="Ashwani Tiwari GitHub streak statistics"
   />
 </a>
